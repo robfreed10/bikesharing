@@ -15,3 +15,4 @@ The checkout times by user and gender that most of the data are using Citibikes 
 ![Trips by Gender (Weekday per Hour)](https://user-images.githubusercontent.com/68922663/107647346-0f4c4080-6c49-11eb-9b21-ec12b5098e80.png)
 ![Trips by Weekdays by Each Hour](https://user-images.githubusercontent.com/68922663/107647358-12dfc780-6c49-11eb-911a-55a8b866d0ca.png)
 ![Usertrips by gender by weekday](https://user-images.githubusercontent.com/68922663/107647369-15422180-6c49-11eb-888f-d6e3fb086e06.png)
+![Screen Shot 2021-02-11 at 9 13 42 AM](https://user-images.githubusercontent.com/68922663/107647727-7964e580-6c49-11eb-9355-dd9dac1ae2b5.png)
